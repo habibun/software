@@ -1,2 +1,2 @@
 # software
-Software
+Software Architecture & Software Design Patterns & Software Principles
