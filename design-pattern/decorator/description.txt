@@ -1,7 +1,0 @@
-We use the decorator design pattern to add new optional features to our code without changing the existing classes.
-The new features are added by creating new classes that belong to the same type as the existing classes.
-
-
-The problem
-The problem starts when customers are given the choice to add optional features to their car, like high end wheels, a car rear spoiler, or a sun roof.
-We wouldn't like to change the existing classes to include optional features, so we need a better solution.
